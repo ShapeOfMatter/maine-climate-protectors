@@ -13,8 +13,8 @@ body {
   }
 }
 header {
-  font-size: 200%;
-  border-bottom: 10px solid lighten($primary-color, 20%);
+  font-size: 150%;
+  border-bottom: 7px solid lighten($primary-color, 10%);
   h1 {
     font-size: 200%;
   }
@@ -27,16 +27,17 @@ header {
     text-decoration: none;
   }
   #main_nav {
-    margin: .2em;
-    background-color: lighten($primary-color, 20%);
+    margin: .2em .2em 0px .2em;
+    background-color: lighten($primary-color, 10%);
     a:hover {
       text-decoration: underline;
     }
   }
 }
 #page_contents {
-  background-color: darken($primary-color, 10%);
-  margin: 25vw 0vw 25vw 20px;
+  background-color: darken($primary-color, 5%);
+  padding: 10px;
+  margin: 0px 25vw 20px 25vw;
 }
 footer{
   font: 60%;
