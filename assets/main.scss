@@ -4,6 +4,10 @@
 body {
   background-color: #20343b;
   color: #fff;
+  font-size: 14px;
+  @media {max-width:800px) {
+    font-size: 11px;
+  }
 }
 header {
   font-size: : 200%;
