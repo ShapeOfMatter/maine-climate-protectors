@@ -10,14 +10,14 @@ body {
   }
 }
 header {
-  font-size: 2em;
+  font-size: 200%;
   h1 {
-    font-size: 2em;
+    font-size: 200%;
   }
   h2 {
-    font-size: 1.3em;
+    font-size: 130%;
   }
-  a:hover {
+  a, a:hover {
     text-decoration: none;
   }
   #main_nav {
@@ -27,5 +27,5 @@ header {
   }
 }
 #footer{
-  font: 0.6em;
+  font: 60%;
 }
