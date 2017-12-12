@@ -6,7 +6,21 @@ body {
   color: #fff;
 }
 header {
-  font: 200%;
+  font-size: : 200%;
+  h1 {
+    font-size: 200%
+  }
+  h2 {
+    font-size: 150%
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  #main_nav {
+    a:hover {
+      text-decoration: underline;
+    }
+  }
 }
 #footer{
   font: 60%;
