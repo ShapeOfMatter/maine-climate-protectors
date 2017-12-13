@@ -1,7 +1,6 @@
 ---
 title: The Petition
 date: 2017-12-04 21:06:00 -05:00
-layout: default
 ---
 
 We need to have a link to download a PDF of the exact petition text.
