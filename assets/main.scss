@@ -35,12 +35,13 @@ header {
     text-decoration: none;
   }
   #main_nav {
-    margin: 0.3em auto;
+    margin: 0.3em auto 0em auto;
     width: 90%;
     a:hover {
       text-decoration: underline;
     }
     .nav_item {
+      display: inline-block;
       background-color: lighten($primary-color, 10%);
       margin: .2em 1vw 0px 1vw;
       padding: 0.5em;
@@ -51,6 +52,9 @@ header {
   background-color: darken($primary-color, 5%);
   padding: 1vw 5vw;
   margin: 0px 20vw 20px 20vw;
+  @media (max-width:580px) {
+    margin: 0px 2vw 20px 2vw;
+  }
   font-family: $content-font;
   p {
     padding: 0.5em;
