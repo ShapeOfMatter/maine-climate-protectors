@@ -55,7 +55,7 @@ header {
   p {
     padding: 1em;
     line-height: 1.8;
-    ::first-line{
+    &:first-line{
       font-size: larger;
     }
   }
