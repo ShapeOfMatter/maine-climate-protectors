@@ -19,7 +19,7 @@ body {
 header {
   font-size: 150%;
   font-family: $heading-font;
-  color: $secondary-font-color
+  color: $secondary-font-color;
   border-bottom: 7px solid lighten($primary-color, 10%);
   h1 {
     font-size: 200%;
@@ -35,7 +35,7 @@ header {
     text-decoration: none;
   }
   #main_nav {
-    margin: auto  ;
+    margin: auto;
     a:hover {
       text-decoration: underline;
     }
