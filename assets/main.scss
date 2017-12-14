@@ -56,6 +56,12 @@ header {
     margin: 0px 2vw 20px 2vw;
   }
   font-family: $content-font;
+  h1 {
+    font-size: 150%;
+    font-weight: bolder;
+    color: lighten($secondary-font-color, 5%);
+    margin: 2vw 0vw 2vw 0vw;
+  }
   p {
     padding: 0.5em;
     line-height: 1.8;
