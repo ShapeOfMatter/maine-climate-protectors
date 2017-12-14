@@ -13,11 +13,11 @@ defaults:
     path: ''
     type: posts
   values:
-    layout: default
+    layout: post
     permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
   values:
-    layout: default
+    layout: page
 permalink: pretty
