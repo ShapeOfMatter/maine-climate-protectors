@@ -12,12 +12,24 @@ body {
   margin: 0px;
   color: $font-color;
   font-size: 15px;
-  @media (max-width:800px) {
-    font-size: 12px;
+  @media (max-width:1040px) {
+    font-size: 14px;
+  }
+  @media (max-width:970px) {
+    font-size: 13px;
   }
 }
 header {
   font-size: 150%;
+  @media (max-width:910px) {
+    font-size: 2.1vw;
+  }
+  @media (max-width:470px) {
+    font-size: 3vw;
+  }
+  @media (max-width:340px) {
+    font-size: 3.6vw;
+  }
   font-family: $heading-font;
   color: $secondary-font-color;
   border-bottom: 7px solid lighten($primary-color, 10%);
