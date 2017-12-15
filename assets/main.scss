@@ -73,6 +73,12 @@ header {
   left: 0px;
   #blog-side-inner {
     padding: 0.5vw;
+    h5 {
+      font-size: 90%;
+      margin: 1em auto;
+      font-weight: 200;
+      color: $secondary-font-color;
+    }
     li {
       padding: 1em 0em;
       font-size: 120%;
