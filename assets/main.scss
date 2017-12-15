@@ -67,6 +67,9 @@ header {
   height:  0px;
   position: absolute;
   width: 19vw;
+  @media (max-width:1160px) {
+    display: none;
+  }
 }
 #blog-side-bar {
   left: 0px;
@@ -92,9 +95,6 @@ header {
 }
 #twitter-side-bar {
   right: 0px;
-  @media (max-width:1160px) {
-    display: none;
-  }
   #twitter-side-inner {
     margin: 0px auto;
   }
