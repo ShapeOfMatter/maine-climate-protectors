@@ -1,9 +1,12 @@
 ---
 ---
 
-$primary-color: #20343b;
-$font-color: #fff;
-$secondary-font-color: #e9f9c9;
+$primary-color: {{ site.site_colors.primary_background }};
+$light-color: {{ site.site_colors.light_background }};
+$dark-color: {{ site.site_colors.dark_background }};
+$font-color: {{ site.site_colors.primary_font }};
+$secondary-font-color: {{ site.site_colors.secondary_font }};
+$tertiary-font-color: {{ site.site_colors.tertiary_font }};
 $heading-font: 'Comfortaa', 'American Typewriter', 'sans-serif';
 $content-font: 'Dosis', 'sans-serif';
 
@@ -32,7 +35,7 @@ header {
   }
   font-family: $heading-font;
   color: $secondary-font-color;
-  border-bottom: 7px solid lighten($primary-color, 10%);
+  border-bottom: 7px solid $light-color;
   h1 {
     font-size: 200%;
     margin: 1vw;
@@ -54,14 +57,54 @@ header {
     }
     .nav_item {
       display: inline-block;
-      background-color: lighten($primary-color, 10%);
+      background-color: $light-color;
       margin: .2em 1vw 0px 1vw;
       padding: 0.5em;
     }
   }
 }
+#blog-side-bar, #twitter-side-bar {
+  height:  0px;
+  position: absolute;
+  margin: 0.5vw;
+  width: 19vw;
+}
+#blog-side-bar {
+  left: 0px;
+  #blog-side-inner {
+    padding: 0.5vw;
+    li {
+      padding: 1em 0em;
+      font-size: 120%;
+      line-height: 1.2;
+      list-style-type: none;
+      color: $tertiary-font-color;
+    }
+  }
+}
+#twitter-side-bar {
+  right: 0px;
+  @media (max-width:1160px) {
+    display: none;
+  }
+  #twitter-side-inner {
+    margin: 0px auto;
+  }
+}
+#blog-side-inner, #page_contents {
+  background-color: $dark-color;
+  a {
+    color: inherit;
+    font-weight: bolder;
+    &:visited{
+      color: darken($font-color, 15%);
+    }
+    &:hover, &:active{
+      background-color: $light-color;
+    }
+  }
+}
 #page_contents {
-  background-color: darken($primary-color, 5%);
   padding: 1vw 5vw;
   margin: 0px 20vw 20px 20vw;
   @media (max-width:580px) {
@@ -71,7 +114,7 @@ header {
   h1 {
     font-size: 150%;
     font-weight: bolder;
-    color: lighten($secondary-font-color, 5%);
+    color: $tertiary-font-color;
     margin: 2vw 0vw 2vw 0vw;
   }
   p {
@@ -79,16 +122,6 @@ header {
     line-height: 1.8;
     &:first-line{
       font-weight: bolder;
-    }
-  }
-  a {
-    color: inherit;
-    font-weight: bolder;
-    &:visited{
-      color: darken($font-color, 15%);
-    }
-    &:hover, &:active{
-      background-color: lighten($primary-color, 10%);
     }
   }
 }
