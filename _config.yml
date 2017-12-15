@@ -31,8 +31,8 @@ twitter_settings:
   - from:SierraClubMaine
 site_colors:
   primary_background: "#20343b"
-  light_background: 32515c
+  light_background: "#32515c"
   dark_background: "#17252a"
-  primary_font: "#fff"
+  primary_font: "#ffffff"
   secondary_font: "#e9f9c9"
   tertiary_font: "#f2fce0"
