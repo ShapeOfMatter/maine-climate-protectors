@@ -4,8 +4,9 @@ layout: master
 
 <div id="blog-side-bar">
   <div id="blog-side-inner">
-    {% for item in site.my_collection %}
-      <li><a href="{{ item.url }}>{{ item.title }}</a></li>
+    <h5>recent</h5>
+    {% for post in site.posts limit:5 %}
+      <li><a href="{{ post.url }}>{{ post.title }}</a></li>
     {% endfor %}
   </div>
 </div>
