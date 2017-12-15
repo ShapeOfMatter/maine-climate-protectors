@@ -24,10 +24,14 @@ permalink: pretty
 twitter_settings:
   width: 220
   height: 600
-  search_flags: [ "#OurChildrensTrust", "#MaineClimateProtectors", "from:350Maine", "from:SierraClubMaine" ]
+  search_flags:
+  - "#OurChildrensTrust"
+  - "#MaineClimateProtectors"
+  - from:350Maine
+  - from:SierraClubMaine
 site_colors:
   primary_background: "#20343b"
-  light_background: "32515c"
+  light_background: 32515c
   dark_background: "#17252a"
   primary_font: "#fff"
   secondary_font: "#e9f9c9"
