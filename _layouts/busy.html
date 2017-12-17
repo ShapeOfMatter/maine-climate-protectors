@@ -19,12 +19,11 @@ layout: master
        data-chrome="noheader nofooter noborders transparent noscrollbar"
        data-theme="dark"
        data-link-color="{{ site.site_colors.dark_background }}"
-       data-type="search"
-       data-search-query="{{ site.twitter_settings.search_flags | join: ' OR ' | url_encode }}"
-       href="https://twitter.com/search?q={{ site.twitter_settings.search_flags | join: ' OR ' | url_encode }}">
-        News from Twitter
+       href="https://twitter.com/search?q={{ site.twitter_settings.search_query| url_encode }}"
+       data-widget-id="{{ site.twitter_settings.widget_id }}">
+      Tweets about #OurChildrensTrust OR #MaineClimateProtectors OR from:350Maine OR from:SierraClubMaine
     </a>
-    <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   </div>
 </div>
 

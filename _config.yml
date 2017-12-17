@@ -24,11 +24,9 @@ permalink: pretty
 twitter_settings:
   width: 220
   height: 600
-  search_flags:
-  - "#OurChildrensTrust"
-  - "#MaineClimateProtectors"
-  - from:350Maine
-  - from:SierraClubMaine
+  widget_id: "941785135694917632"
+  # For the backup url:
+  search_query: "#OurChildrensTrust OR #MaineClimateProtectors OR from:350Maine OR from:SierraClubMaine"
 site_colors:
   primary_background: "#20343b"
   light_background: "#32515c"
