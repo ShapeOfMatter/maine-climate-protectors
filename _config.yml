@@ -1,0 +1,36 @@
+---
+title: Maine Climate Protectors Petition
+timezone: America/New_York
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty
+twitter_settings:
+  width: 220
+  height: 600
+  backup_search_query: "#OurChildrensTrust OR #MaineClimateProtectors OR from:350Maine
+    OR from:SierraClubMaine"
+  widget_id: 941785135694917600
+site_colors:
+  primary_background: "#20343b"
+  light_background: "#32515c"
+  dark_background: "#17252a"
+  primary_font: "#ffffff"
+  secondary_font: "#e9f9c9"
+  tertiary_font: "#f2fce0"
