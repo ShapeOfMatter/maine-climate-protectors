@@ -21,12 +21,13 @@ defaults:
   values:
     layout: page
 permalink: pretty
-twitter_settings:
-  width: 220
-  height: 600
-  backup_search_query: "#OurChildrensTrust OR #MaineClimateProtectors OR from:350Maine
-    OR from:SierraClubMaine"
-  widget_id: 941785135694917600
+side_bar:
+  posts:
+    vw_threshold: 1160
+    quantity: 5
+  uploads:
+    vw_threshold: 1160
+    quantity: 5
 site_colors:
   primary_background: "#20343b"
   light_background: "#32515c"
