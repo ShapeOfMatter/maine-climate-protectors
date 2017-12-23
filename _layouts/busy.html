@@ -4,15 +4,26 @@ layout: master
 
 <div id="blog-side-bar">
   <div id="blog-side-inner">
-    <h5>recent</h5>
-    {% for post in site.posts limit:5 %}
+    <h5>recent posts</h5>
+    {% for post in site.posts limit:site.side_bar.posts.quantity %}
       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </div>
 </div>
-<div id="gallery-side-bar">
-  <div id="gallery-side-inner">
-    {% for upload in site.uploads limit:5 %}
+<div id="uploads-side-bar">
+  <div id="uploads-side-inner">
+    <h5>recent uploads</h5>
+    {% for file in site.uploads limit:site.side_bar.uploads.quantity %}
+      <li><a href="/uploads/{{ file.name }}" target="_blank">
+        {% assign extension = file.extname | downcase %}
+        {% case extension %}
+          {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
+            <img src="/uploads/{{ file.name }}" class="side_bar_image">
+          {% else %}
+            {{ file.name }}
+        {% endcase %}
+      </a></li>
+    {% endfor %}
   </div>
 </div>
 

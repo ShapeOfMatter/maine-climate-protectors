@@ -19,4 +19,14 @@
       font-weight: bolder;
     }
   }
+  a {
+    color: inherit;
+    font-weight: bolder;
+    &:visited{
+      color: darken($font-color, 15%);
+    }
+    &:hover, &:active{
+      background-color: $light-color;
+    }
+  }
 }
