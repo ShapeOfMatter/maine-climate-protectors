@@ -24,13 +24,13 @@
   }
 }
 #blog-side-bar {
-  @media (max-width: {{ site.side_bar.posts.vw_threshold }}px) {
+  @media (max-width: $blog_side_bar_threshold) {
     display: none;
   }
   left: 0px;
 }
 #uploads-side-bar {
-  @media (max-width: {{ site.side_bar.uploads.vw_threshold }}px) {
+  @media (max-width: $uploads_side_bar_threshold) {
     display: none;
   }
   right: 0px;
