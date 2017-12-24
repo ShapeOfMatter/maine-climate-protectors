@@ -14,12 +14,12 @@ layout: master
   <div id="uploads-side-inner">
     <h5>recent uploads</h5>
     {% assign uploads_collection = site.collections | where: 'label', 'uploads' | first %}
-    {% for file in uploads_collection.files %}
-        <li><a href="{{ site.baseurl }}/{{ file.path }}" target="_blank">
+    {% for file in uploads_collection.files reversed limit:site.side_bar.uploads.quantity %}
+        <li><a href="{{ file.path | remove_first:"_" | relative_url }}" target="_blank">
           {% assign extension = file.extname | downcase %}
           {% case extension %}
             {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
-              <img src="{{ site.baseurl }}/{{ file.path }}" class="side_bar_image">
+              <img src="{{ file.path | remove_first:"_" | relative_url }}" class="side_bar_image">
             {% else %}
               {{ file.name }}
           {% endcase %}
