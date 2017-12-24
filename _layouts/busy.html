@@ -13,7 +13,7 @@ layout: master
 <div id="uploads-side-bar">
   <div id="uploads-side-inner">
     <h5>recent uploads</h5>
-    {% for file in site.static_files %};{{ file.path }},{{file.name}};{% endfor %}
+    {% for file in site.uploads %};{{file}},{{ file.path }},{{file.name}};{% endfor %}
     {% for file in site.static_files %}{% if image.path contains '/uploads/' %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         <li><a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
