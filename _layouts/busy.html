@@ -15,12 +15,11 @@ layout: master
     <h5>recent uploads</h5>
     {% assign uploads_collection = site.collections | where: 'label', 'uploads' | first %}
     {% for file in uploads_collection.files %}
-        <img src="{{ site.baseurl }}/{{ image.path }}" alt="image" />
-        <li><a href="{{ site.baseurl }}/{{ image.path }}" target="_blank">
+        <li><a href="{{ site.baseurl }}/{{ file.path }}" target="_blank">
           {% assign extension = file.extname | downcase %}
           {% case extension %}
             {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
-              <img src="{{ site.baseurl }}/{{ image.path }}" class="side_bar_image">
+              <img src="{{ site.baseurl }}/{{ file.path }}" class="side_bar_image">
             {% else %}
               {{ file.name }}
           {% endcase %}

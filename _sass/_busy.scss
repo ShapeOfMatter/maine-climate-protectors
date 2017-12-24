@@ -55,6 +55,7 @@
     margin: .3em .4em .6em .4em;
     border: .2em solid $light-color;
     padding: .4em;
-    font-size: 110%;
+    word-break: break-all;
+    text-align: center;
   }
 }
