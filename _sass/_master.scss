@@ -15,13 +15,13 @@ body {
 
 header {
   font-size: 150%;
-  @media (max-width:910px) {
+  @media (max-width:970px) {
     font-size: 2.1vw;
   }
-  @media (max-width:470px) {
+  @media (max-width:490px) {
     font-size: 3vw;
   }
-  @media (max-width:340px) {
+  @media (max-width:360px) {
     font-size: 3.6vw;
   }
   font-family: $heading-font;
