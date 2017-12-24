@@ -14,7 +14,7 @@ layout: master
   <div id="uploads-side-inner">
     <h5>recent uploads</h5>
     {% assign uploads = site.collections | where: 'label', 'uploads' | first %}
-    {% for file in uploads limit:site.side_bar.uploads.quantity %}
+    {% for file in uploads %}
       <li><a href="/uploads/{{ file.name }}" target="_blank">
         {% assign extension = file.extname | downcase %}
         {% case extension %}
