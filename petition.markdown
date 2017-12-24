@@ -3,7 +3,7 @@ title: The Petition
 date: 2017-12-04 21:06:00 -05:00
 ---
 
-We need to have a link to download a PDF of the exact petition text.
+[Read our petition here as a PDF.](/uploads/2017MaineClimateProtectorsDEPPetition.pdf "Download PDF")
 
 We are petitioning the Maine Department of Environmental Protection to make rules to protect the common welfare from anthropogenic climate change pursuant to 5 M.R.S.A. §8055(3) and the Department's obligations under statutory law, the Maine and United States Constitutions, and the Public Trust Doctrine. Such rules are within the Department's authority and are  necessary in order to ensure that the worst impacts of climate change and ocean acidification are avoided and do not cause catastrophic and irreversible harm to present and future generations.
 
