@@ -23,10 +23,10 @@ defaults:
 permalink: pretty
 side_bar:
   posts:
-    vw_threshold: 1160
+    vw_threshold: 1000
     quantity: 5
   uploads:
-    vw_threshold: 1160
+    vw_threshold: 1000
     quantity: 5
 site_colors:
   primary_background: "#20343b"
