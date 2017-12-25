@@ -38,6 +38,10 @@
 
 #blog-side-inner, #uploads-side-inner {
   padding: 0.5vw;
+  ul, ol {
+    padding: 0px;
+    margin: 0px;
+  }
   li {
     list-style-type: none;
     color: $tertiary-font-color;
