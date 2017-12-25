@@ -17,7 +17,7 @@ layout: master
     <h5><a href="{{ "gallery" | relative_url }}">recent uploads</a></h5>
     <ul>
       {% assign uploads_collection = site.collections | where: 'label', 'uploads' | first %}
-      {% for file in uploads_collection.files reversed limit:site.side_bar.uploads.quantity %}
+      {% for file in uploads_collection.files | sort:"modified_time" | reverse | limit:site.side_bar.uploads.quantity %}
           <li><a href="{{ file.path | remove_first:"_" | relative_url }}" target="_blank">
             {% assign extension = file.extname | downcase %}
             {% case extension %}
