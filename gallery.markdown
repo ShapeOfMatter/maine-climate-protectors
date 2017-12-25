@@ -5,7 +5,7 @@ layout: busy
 ---
 
 {% assign uploads_collection = site.collections | where: 'label', 'uploads' | first %}
-{% for file in uploads_collection.files reversed %}
+{% for file in uploads_collection.files | sort:"modified_time" | reverse %}
   {% assign extension = file.extname | downcase %}
   {% case extension %}
   {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
