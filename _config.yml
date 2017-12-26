@@ -2,6 +2,9 @@
 title: Maine Climate Protectors Petition
 timezone: America/New_York
 collections:
+  gallery:
+    title: Gallery
+    output: true
   posts:
     title: Posts
     output: true
