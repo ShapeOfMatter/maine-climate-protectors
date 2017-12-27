@@ -5,7 +5,7 @@ permalink: "/gallery/index.html"
 layout: busy
 ---
 
-{% for collection in site.collections %}{{ collection.label }}{% if collection.label == "gallery" %}{% for upload in collections.uploads| sort:'date' | reverse %}
+{% for collection in site.collections %}{% if collection.label == "gallery" %}{% for upload in collection.uploads| sort:'date' | reverse %}
 {{ upload.date }}
   {% assign extension = upload.file | split:'.' | last | downcase %}
   {% case extension %}
