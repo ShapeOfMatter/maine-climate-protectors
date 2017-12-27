@@ -6,16 +6,16 @@ layout: busy
 ---
 
 {% for upload in site.gallery.uploads | reverse %}
-  {% assign extension = upload.file.extname | downcase %}
+  {% assign extension = upload.file | split:'.' | last | downcase %}
   {% case extension %}
-  {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
-    <p><a href="{{ upload.file.path }}">
-      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
-      <div><img alt="{{ upload.name }}" src="{{ upload.file.path }}"></div>
+  {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
+    <p><a href="{{ upload.file }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
+      <div><img alt="{{ upload.name }}" src="{{ upload.file }}"></div>
     </a></p>
   {% else %}
-    <p><a href="{{ upload.file.path }}">
-      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
+    <p><a href="{{ upload.file }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
     </a></p>
   {% endcase %}
 {% endfor %}
