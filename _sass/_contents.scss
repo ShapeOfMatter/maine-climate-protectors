@@ -33,4 +33,12 @@
       max-width: 100%;
       object-fit: cover;
   }
+  .upload_name {
+    margin-right: 1em;
+  }
+  .upload_date {
+    font-weight: lighter;
+    text-decoration: none;
+    display: inline-block;
+  }
 }
