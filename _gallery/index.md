@@ -1,0 +1,21 @@
+---
+title: Gallery
+date: 2017-12-25 19:41:00 -05:00
+permalink: "/gallery/index.html"
+layout: busy
+---
+
+{% for upload in site.gallery.uploads | reverse %}
+  {% assign extension = upload.file.extname | downcase %}
+  {% case extension %}
+  {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
+    <p><a href="{{ upload.file.path }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
+      <div><img alt="{{ upload.name }}" src="{{ upload.file.path }}"></div>
+    </a></p>
+  {% else %}
+    <p><a href="{{ upload.file.path }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
+    </a></p>
+  {% endcase %}
+{% endfor %}
