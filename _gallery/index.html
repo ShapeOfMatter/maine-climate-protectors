@@ -5,7 +5,7 @@ permalink: "/gallery/index.html"
 layout: busy
 ---
 
-{% for upload in site.gallery.uploads | reverse %}
+{% for collection in site.collections %}{% if collection.label == "gallery" %}{% for upload in collections.uploads| sort:'date' | reverse %}
   {% assign extension = upload.file | split:'.' | last | downcase %}
   {% case extension %}
   {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
@@ -18,4 +18,4 @@ layout: busy
       <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
     </a></p>
   {% endcase %}
-{% endfor %}
+{% endfor %}{% endif %}{% endfor %}
