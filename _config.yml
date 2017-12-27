@@ -5,6 +5,16 @@ collections:
   gallery:
     title: Gallery
     output: true
+    uploads:
+    - file: "/uploads/20171030_090303.jpg"
+      name: Some waves on Monhegan
+      date: 2017-12-04 05:00:00.000000000 Z
+    - file: "/uploads/2d4bee9317294f87e54c5f855be5f138--humboldt-county-dairy.jpg"
+      name: A goat I found online.
+      date: 2017-12-19 05:00:00.000000000 Z
+    - file: "/uploads/2017MaineClimateProtectorsDEPPetition.pdf"
+      name: The Petition itself (December 2017)
+      date: 2017-12-27 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
