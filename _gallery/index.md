@@ -5,14 +5,17 @@ permalink: "/gallery/index.html"
 layout: busy
 ---
 
-{% for file in site.gallery.uploads | reverse %}
-  {% assign extension = file.extname | downcase %}
+{% for upload in site.gallery.uploads | reverse %}
+  {% assign extension = upload.file.extname | downcase %}
   {% case extension %}
   {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
-   [{{ file.name }}]({{ file.path | remove_first:"_" | relative_url }})
-   ![{{ file.name }}]({{ file.path | remove_first:"_" | relative_url }})
+    <p><a href="{{ upload.file.path }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
+      <div><img alt="{{ upload.name }}" src="{{ upload.file.path }}"></div>
+    </a></p>
   {% else %}
-   [{{ file.name }}]({{ file.path | remove_first:"_" | relative_url }})
+    <p><a href="{{ upload.file.path }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date }}</span></div>
+    </a></p>
   {% endcase %}
-  {% comment %} This should turn into an empty line, which markdown needs here. {% endcomment %}
 {% endfor %}
