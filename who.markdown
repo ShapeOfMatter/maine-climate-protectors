@@ -3,7 +3,7 @@ title: Who we are
 date: 2017-12-05 07:09:00 -05:00
 ---
 
-Over 500 Maine voters are submitting this petition asking the DEP to fulfil their legal and moral mandate.
+Over 600 Maine voters are submitting this petition asking the DEP to fulfil their legal and moral mandate.
 
 Beth Valentine (lawyer, U-Maine?) wrote the petition with some other people?
 
