@@ -5,20 +5,19 @@ permalink: "/gallery/index.html"
 layout: busy
 ---
 
-{% for collection in site.collections %}{% if collection.label == "gallery" %}
-  {% assign uploads = (collection.uploads | sort:"date") | reverse %}
-  {% for upload in uploads %}
-    {% assign extension = upload.file | split:'.' | last | downcase %}
-    {% case extension %}
-    {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
-      <p><a href="{{ upload.file }}">
-        <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
-        <div><img alt="{{ upload.name }}" src="{{ upload.file }}"></div>
-      </a></p>
-    {% else %}
-      <p><a href="{{ upload.file }}">
-        <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
-      </a></p>
-    {% endcase %}
-  {% endfor %}
-{% endif %}{% endfor %}
+{% assign gallery_collection = site.collections | where: 'label', 'gallery' | first %}
+{% assign uploads = (gallery_collection.uploads | sort:"date") | reverse %}
+{% for upload in uploads %}
+  {% assign extension = upload.file | split:'.' | last | downcase %}
+  {% case extension %}
+  {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
+    <p><a href="{{ upload.file | relative_url }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
+      <div><img alt="{{ upload.name }}" src="{{ upload.file | relative_url }}"></div>
+    </a></p>
+  {% else %}
+    <p><a href="{{ upload.file | relative_url }}">
+      <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
+    </a></p>
+  {% endcase %}
+{% endfor %}
