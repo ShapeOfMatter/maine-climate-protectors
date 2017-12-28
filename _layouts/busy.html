@@ -16,17 +16,20 @@ layout: master
   <div id="uploads-side-inner">
     <h5><a href="{{ "gallery" | relative_url }}">recent uploads</a></h5>
     <ul>
-      {% assign uploads_collection = site.collections | where: 'label', 'uploads' | first %}
-      {% for file in uploads_collection.files | sort:"modified_time" | reverse | limit:site.side_bar.uploads.quantity %}
-          <li><a href="{{ file.path | remove_first:"_" | relative_url }}" target="_blank">
-            {% assign extension = file.extname | downcase %}
-            {% case extension %}
-              {% when ".jpg" or ".jpeg" or ".png" or ".gif" or ".svg" %}
-                <img src="{{ file.path | remove_first:"_" | relative_url }}" class="side_bar_image">
-              {% else %}
-                {{ file.name }}
-            {% endcase %}
+      {% assign gallery_collection = site.collections | where: 'label', 'gallery' | first %}
+      {% assign uploads = (gallery_collection.uploads | sort:"date") | reverse %}
+      {% for upload in uploads | limit:site.side_bar.uploads.quantity %}
+        {% assign extension = upload.file | split:'.' | last | downcase %}
+        {% case extension %}
+        {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
+          <li><a href="{{ upload.file | relative_url }}" target="_blank">
+            <img src="{{ upload.file | relative_url }}" class="side_bar_image">
           </a></li>
+        {% else %}
+          <li><a href="{{ upload.file | relative_url }}" target="_blank">
+            {{ upload.name }}
+          </a></li>
+        {% endcase %}
       {% endfor %}
     </ul>
   </div>
