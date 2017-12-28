@@ -13,9 +13,9 @@ Who else should we name personally? Anthony Moffa
 
 [350 Maine](http://www.350maine.org/) is a grass-roots movement dedicated to solving the planetary climate crisis. We grow our power collectively to find real and lasting solutions, to end our dependence on fossil fuels, and to build a healthy, sustainable life for people and the planet. 350 Maine believes that Maine holds a unique position in this global movement as a gateway to coastal waters and foreign markets. Maine also has abundant fresh water and the largest contiguous forest east of the Mississippi River; ecosystems that must be protected.
 
-Citizens’ Climate Lobby is a non-profit, non-partisan, grass roots advocacy organization with hundreds of chapters across the world working to create the political will for a livable world. There are three active chapters in Maine, as well as three developing chapters. Each chapter empowers people to experience breakthroughs exercising their personal and political power.
+[Citizens’ Climate Lobby](https://citizensclimatelobby.org/) is a non-profit, non-partisan, grass roots advocacy organization with hundreds of chapters across the world working to create the political will for a livable world. Each chapter empowers people to experience breakthroughs exercising their personal and political power.
 
-Our Children’s' Trust is some folks.
+[Our Children’s' Trust](https://www.ourchildrenstrust.org/) elevates the voice of youth to secure the legal right to a stable climate and healthy atmosphere for the benefit of all present and future generations. Through our programs, youth participate in advocacy, public education and civic engagement to ensure the viability of all natural systems in accordance with science. 
 
 Earth Guardians is a non-profit organization with youth chapters on five continents and groups throughout the United States with thousands of members working together to protect the Earth, the water, the air, and the atmosphere and to create healthy sustainable communities globally. They inspire and empower young leaders, families, schools, organizations, cities, and government officials to make positive change locally, nationally, and globally to address the critical state of the Earth.
 
