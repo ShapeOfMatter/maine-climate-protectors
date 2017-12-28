@@ -13,7 +13,7 @@ collections:
       name: A goat I found online.
       date: 2017-12-19 05:00:00.000000000 Z
     - file: "/uploads/2017MaineClimateProtectorsDEPPetition.pdf"
-      name: The Petition itself (December 2017)
+      name: The Petition itself (Dec 2017)
       date: 2017-12-27 05:00:00.000000000 Z
   posts:
     title: Posts
