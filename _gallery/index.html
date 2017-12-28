@@ -11,13 +11,13 @@ layout: busy
   {% assign extension = upload.file | split:'.' | last | downcase %}
   {% case extension %}
   {% when "jpg" or "jpeg" or "png" or "gif" or "svg" %}
-    <p><a href="{{ upload.file | relative_url }}" target="_blank">
+    <div class="paragraph"><a href="{{ upload.file | relative_url }}" target="_blank">
       <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
       <div><img alt="{{ upload.name }}" src="{{ upload.file | relative_url }}"></div>
-    </a></p>
+    </a></div>
   {% else %}
-    <p><a href="{{ upload.file | relative_url }}" target="_blank">
+    <div class="paragraph"><a href="{{ upload.file | relative_url }}" target="_blank">
       <div><span class="upload_name">{{ upload.name }}</span><span class="upload_date">{{ upload.date | date:"%D" }}</span></div>
-    </a></p>
+    </a></div>
   {% endcase %}
 {% endfor %}
