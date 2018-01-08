@@ -3,4 +3,9 @@ title: Timeline
 date: 2017-12-13 14:50:00 -05:00
 ---
 
-When is stuff happening and what already happened when?
+{% assign events = page.events | sort:"date" %}
+{% for event in events %}
+{{ event.date | date:"%D" }}
+{{ event.text }}
+{% comment %} Empty line! {% endcomment %}
+{% endfor %}
