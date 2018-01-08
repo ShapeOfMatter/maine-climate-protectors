@@ -7,6 +7,8 @@ There are many organizations in Maine and around the world working for better cl
 
 If you'd like to help with our current work lobbying the DEP, there are a few things you can do:
  + [Write to the DEP to express your support.]({{ "/posts/write-to-the-dep/" | relative_url }})
- + Reach out to us and tell us we're doing a good job. Maybe we'll know of ways for you to help us. {{ site.contact_email }}
+ + Reach out to us and tell us we're doing a good job. Probably we'll know of ways for you to help us! {{ site.contact_email }}
  + Contact your legislators and the Governor to express your support. They're the bosses of the DEP!
+    - [Find your State Senator](https://mainelegislature.org/senate/find-your-state-senator/9392)
+    - [Find your State Representative](https://mainelegislature.org/house/townlist.htm)
  + [Check out our calendar for information about upcoming events you can help with.]({{ "/timeline" | relative_url }})
