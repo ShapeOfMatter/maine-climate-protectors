@@ -6,6 +6,9 @@ events:
   text: |-
     2:30 to 3:30 p.m in the State of Maine Room at Portland City Hall
     In a spirited, art-filled celebration of this potentially ground-breaking petition, Maine youth, will speak their minds on the importance of acting decisively and wholeheartedly to address earth’s rapidly deteriorating climate. In addition, a member of the Maine bar will briefly address the essence of the Maine law invoked by the petition and provide a bird’s eye view of similar efforts in other states, as well as in federal and international forums. Then the petitions will be delivered to a representative of the DEP.
+- date: 2018-03-25 00:00:00 -04:00
+  text: The deadline (targeted) for the DEP to begin the rule-making process as described
+    in the petition.
 ---
 
 {% comment %}
