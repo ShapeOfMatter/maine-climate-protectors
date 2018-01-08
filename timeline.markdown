@@ -15,11 +15,12 @@ events:
 If you need to add or edit items, do so in the meta-data list below, not this textbox.
 The "date"s will be displayed without the time-of-day part, so don't bother setting it; include time-of-day information in the event's text.
 Contact Mako if this way of organizing stuff isn't working out.
+The below is highly white-space sensitive!
 {% endcomment %}
 Here's basically what has been and will be going on:
 {% assign events = page.events | sort:"date" %}
 {% for event in events %}
-{{ event.date | date:"%D" }}
+{{ event.date | date:"%D" }}  
 {{ event.text }}
-{% comment %} Empty line! {% endcomment %}
+
 {% endfor %}
