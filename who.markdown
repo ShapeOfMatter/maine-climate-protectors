@@ -5,13 +5,11 @@ date: 2017-12-05 07:09:00 -05:00
 
 Over 600 Maine voters are submitting this petition asking the DEP to fulfil their legal and moral mandate.
 
-Beth Valentine (lawyer, U-Maine?) wrote the petition with some other people?
+Beth Fuller Valentine's law practice is focused on administrative law and appellate advocacy in U.S. District Court. Prior to becoming an attorney, she worked for 15 years in coastal management and sustainable development. Her work with Maine Climate Protectors is an outgrowth of her work with Our Children's Trust while a student at the University of Maine School of Law.
 
 Angus Ferguson (lawyer, ?) was inspired by the "Our Children’s' Trust" movement to fight for enforcement of existing environmental protection laws.
 
-Who else should we name personally? Anthony Moffa
-
-[350 Maine](http://www.350maine.org/) is a grass-roots movement dedicated to solving the planetary climate crisis. We grow our power collectively to find real and lasting solutions, to end our dependence on fossil fuels, and to build a healthy, sustainable life for people and the planet. 350 Maine believes that Maine holds a unique position in this global movement as a gateway to coastal waters and foreign markets. Maine also has abundant fresh water and the largest contiguous forest east of the Mississippi River; ecosystems that must be protected.
+[350 Maine](http://www.350maine.org/) is a grass-roots movement dedicated to solving the planetary climate crisis. We grow our power collectively to find real and lasting solutions, to end our dependence on fossil fuels, and to build a healthy, sustainable life for people and the planet. 350 Maine believes that Maine holds a unique position in this global movement as a gateway to coastal waters and foreign markets.
 
 [Citizens’ Climate Lobby](https://citizensclimatelobby.org/) is a non-profit, non-partisan, grass roots advocacy organization with hundreds of chapters across the world working to create the political will for a livable world. Each chapter empowers people to experience breakthroughs exercising their personal and political power.
 
