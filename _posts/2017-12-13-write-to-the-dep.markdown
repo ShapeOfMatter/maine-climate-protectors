@@ -9,8 +9,8 @@ The Maine Department of Environmental Protection is a professional government en
 
 **It's entirely appropriate to write to the DEP asking them to write rules as described in our petition, but please wait until we have actually submitted the petition!** (Also, please do send us a copy of your letter❣ {{ site.contact_email }})
 
-[Maine Department of Environmental Protection](https://www1.maine.gov/dep/contact/index.html)
-17 State House Station
-Augusta, Maine 04333-0017
-(207) 287-7688
-(800) 452-1942
+[Maine Department of Environmental Protection](https://www1.maine.gov/dep/contact/index.html)  
+17 State House Station  
+Augusta, Maine 04333-0017  
+(207) 287-7688  
+(800) 452-1942  
