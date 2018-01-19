@@ -15,6 +15,12 @@ collections:
     - file: "/uploads/2017MaineClimateProtectorsDEPPetition.pdf"
       name: The Petition itself (Dec 2017)
       date: 2017-12-27 05:00:00.000000000 Z
+    - file: "/uploads/Jan%2024%20Flyer-FINAL.docx"
+      name: Print Flyer for Jan 24
+      date: 2018-01-15 05:00:00.000000000 Z
+    - file: "/uploads/MCP%20painted%20banner.jpg"
+      name: The painted Maine Climate Protectors banner
+      date: 2018-01-16 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
