@@ -24,6 +24,9 @@ collections:
     - file: "/uploads/mediaadvisory_petitiondrop_1_22.pdf"
       name: Media Advisory for Jan 24th
       date: 2018-01-22 05:00:00.000000000 Z
+    - file: "/uploads/ME.FB.EventPhoto.png"
+      name: AART Youth Gets Ready
+      date: 2018-01-23 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
