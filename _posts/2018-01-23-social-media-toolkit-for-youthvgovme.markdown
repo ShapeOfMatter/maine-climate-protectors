@@ -27,11 +27,8 @@ Sample Twitter Post:
 (Image will NOT appear automatically. Please post with image provided for Twitter below) 
 Tmrw, ME voters & youth will file #climatechange petition w/ @maine_dep to demand state protect their futures. Come support these young climate heroes & celebrate this landmark legal action! 230pm @ Portland City Hall www.facebook.com/events/403167356802794/ #youthvgovME #youthvgov
 
-Image sized for Facebook & Instagram:
-![for best results, right-click and save this image.]()
+Image sized for Facebook & Instagram: 
+![for best results, right-click and save this image.]({{ "/uploads/ME.FB.png" | relative_url }})
 
-
-
-Image sized for Twitter: CLICK IMAGE TO DOWNLOAD 
-
-
+Image sized for Twitter: 
+![for best results, right-click and save this image.]({{ "/uploads/ME.FB.EventPhoto.png" | relative_url }})
