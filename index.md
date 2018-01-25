@@ -10,4 +10,4 @@ In Maine, we have a 14 year old law that states that Maine will reduce greenhous
 
 As recent events have underscored---four foot rains in Texas, grid-destroying winds in Florida, record-breaking wildfires in Montana and California, and utter devastation in Puerto Rico---our future and our children’s future depends on what we do right now.
 
-[Read our petition here as a PDF.](/uploads/2017MaineClimateProtectorsDEPPetition.pdf "Download PDF")
+[Read our petition here as a PDF.]({{ "/uploads/Petition%201-23-18%20FINAL.pdf" | relative_url}} "Download PDF")
