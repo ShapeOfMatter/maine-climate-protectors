@@ -25,6 +25,9 @@ collections:
       name: AART Youth Gets Ready
       date: 2018-01-23 05:00:00.000000000 Z
     - file: "/uploads/Petition%201-23-18%20Final%20wAppendix.zip"
+      name: The Petition (final, zip with appendices)
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/Petition%201-23-18%20FINAL.pdf"
       name: The Petition (final, pdf)
       date: 2018-01-24 05:00:00.000000000 Z
   posts:
