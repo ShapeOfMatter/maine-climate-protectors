@@ -3,7 +3,7 @@ title: Who we are
 date: 2017-12-05 07:09:00 -05:00
 ---
 
-Over 600 Maine voters are submitting this petition asking the DEP to fulfil their legal and moral mandate.
+Six hundred and ninety three Maine voters and thirty three Maine youth are submitting this petition asking the DEP to fulfill their legal and moral mandate.
 
 Beth Fuller Valentine's law practice is focused on administrative law and appellate advocacy in U.S. District Court. Prior to becoming an attorney, she worked for 15 years in coastal management and sustainable development. Her work with Maine Climate Protectors is an outgrowth of her work with Our Children's Trust while a student at the University of Maine School of Law.
 
