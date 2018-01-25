@@ -15,3 +15,5 @@ The Maine Department of Environmental Protection is a professional government en
 Augusta, Maine 04333-0017  
 (207) 287-7688  
 (800) 452-1942  
+
+You could also [check their calendar](https://www1.maine.gov/dep/bep/calendar.html) for an upcoming public meeting in your area.
