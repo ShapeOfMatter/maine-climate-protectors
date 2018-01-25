@@ -7,7 +7,7 @@ Over 600 Maine voters are submitting this petition asking the DEP to fulfil thei
 
 Beth Fuller Valentine's law practice is focused on administrative law and appellate advocacy in U.S. District Court. Prior to becoming an attorney, she worked for 15 years in coastal management and sustainable development. Her work with Maine Climate Protectors is an outgrowth of her work with Our Children's Trust while a student at the University of Maine School of Law.
 
-Angus Ferguson (lawyer, ?) was inspired by the "Our Children’s' Trust" movement to fight for enforcement of existing environmental protection laws.
+Angus Ferguson ([lawyer, consultant](http://angusferguson.com/)) was inspired by the "Our Children’s' Trust" movement to fight for enforcement of existing environmental protection laws.
 
 [350 Maine](http://www.350maine.org/) is a grass-roots movement dedicated to solving the planetary climate crisis. We grow our power collectively to find real and lasting solutions, to end our dependence on fossil fuels, and to build a healthy, sustainable life for people and the planet. 350 Maine believes that Maine holds a unique position in this global movement as a gateway to coastal waters and foreign markets.
 
