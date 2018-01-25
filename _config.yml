@@ -12,9 +12,6 @@ collections:
     - file: "/uploads/2d4bee9317294f87e54c5f855be5f138--humboldt-county-dairy.jpg"
       name: A goat I found online.
       date: 2017-12-19 05:00:00.000000000 Z
-    - file: "/uploads/2017MaineClimateProtectorsDEPPetition.pdf"
-      name: The Petition itself (Dec 2017)
-      date: 2017-12-27 05:00:00.000000000 Z
     - file: "/uploads/Jan%2024%20Flyer-FINAL.docx"
       name: Print Flyer for Jan 24
       date: 2018-01-15 05:00:00.000000000 Z
@@ -27,6 +24,12 @@ collections:
     - file: "/uploads/ME.FB.EventPhoto.png"
       name: AART Youth Gets Ready
       date: 2018-01-23 05:00:00.000000000 Z
+    - file: "/uploads/Petition%201-23-18%20Final%20wAppendix.zip"
+      name: The Petition (final, zip with appendices)
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/Petition%201-23-18%20FINAL.pdf"
+      name: The Petition (final, pdf)
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
