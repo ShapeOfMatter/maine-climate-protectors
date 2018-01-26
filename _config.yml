@@ -69,6 +69,9 @@ collections:
     - file: "/uploads/2018-01-24%2014.59.59.jpg"
       name: A speaker at the celebration
       date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2015.03.50.jpg"
+      name: Beth Valentine talks about the petition she was in charge of writing
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
