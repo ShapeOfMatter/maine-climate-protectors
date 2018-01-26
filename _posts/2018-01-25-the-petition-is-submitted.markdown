@@ -29,7 +29,3 @@ The DEP will have 60 days to begin a rule-making process in response to the peti
 ![The hand-off celebration]({{ "/uploads/2018-01-24%2015.02.20.jpg" | relative_url }})  
 ![The hand-off celebration]({{ "/uploads/2018-01-24%2015.09.17.jpg" | relative_url }})  
 ![The hand-off celebration]({{ "/uploads/2018-01-24%2015.03.50.jpg" | relative_url }})  
-![The hand-off celebration]({{ "" | relative_url }})  
-![The hand-off celebration]({{ "" | relative_url }})  
-![The hand-off celebration]({{ "" | relative_url }})  
-![The hand-off celebration]({{ "" | relative_url }})  

@@ -42,6 +42,42 @@ collections:
     - file: "/uploads/Climate%20Change%20II%20-%20Phelps%20Turner.jpg"
       name: Speaker at the celebration
       date: 2018-01-25 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.35.58.jpg"
+      name: The MCs at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.36.05.jpg"
+      name: The crowd at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.37.26.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.43.52.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.50.43.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.48.06.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.53.24.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.57.16.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2014.59.59.jpg"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2015.03.50.jpg"
+      name: Beth Valentine talks about the petition she was in charge of writing
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2015.09.17.jpg"
+      name: Charles "Chuck" Spanger speaks at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/hunter.png"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
