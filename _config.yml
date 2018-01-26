@@ -33,6 +33,15 @@ collections:
     - file: "/uploads/IMG_0964-fd18b2.jpg"
       name: The petition is handed off to the DEP
       date: 2018-01-24 21:00:00.000000000 Z
+    - file: 
+      name: The first speaker
+      date: 2018-01-25 05:00:00.000000000 Z
+    - file: 
+      name: The gathered crowd
+      date: 2018-01-25 05:00:00.000000000 Z
+    - file: 
+      name: Speaker at the celebration
+      date: 2018-01-25 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
