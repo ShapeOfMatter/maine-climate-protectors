@@ -75,6 +75,9 @@ collections:
     - file: "/uploads/2018-01-24%2015.09.17.jpg"
       name: Charles "Chuck" Spanger speaks at the celebration
       date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/hunter.png"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
