@@ -78,6 +78,9 @@ collections:
     - file: "/uploads/hunter.png"
       name: A speaker at the celebration
       date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/plastics.png"
+      name: A speaker at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
