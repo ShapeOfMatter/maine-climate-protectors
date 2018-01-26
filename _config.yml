@@ -72,6 +72,9 @@ collections:
     - file: "/uploads/2018-01-24%2015.03.50.jpg"
       name: Beth Valentine talks about the petition she was in charge of writing
       date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/2018-01-24%2015.09.17.jpg"
+      name: Charles "Chuck" Spanger speaks at the celebration
+      date: 2018-01-24 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
