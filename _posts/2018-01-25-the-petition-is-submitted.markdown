@@ -16,3 +16,20 @@ Afterwards Beth and company went to the regional DEP office to deliver the petit
 ![Beth hands off the finalized petition]({{ "/uploads/IMG_0964.jpg" | relative_url }})
 
 The DEP will have 60 days to begin a rule-making process in response to the petition. This is a flexable process, so it's best if you can work with us, *before this ends up in court* to [pressure the DEP to implement strong policies]({{"/posts/write-to-the-dep/" | relative_url}} "Contact the DEP").
+
+![The hand-off celebration]({{ "/uploads/2018-01-24%2014.43.52.jpg" | relative_url }}) 
+![The hand-off celebration]({{ "/uploads/hunter.png" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/D7B060D5-0A2B-4CFA-A54A-1E7429A8377C.jpeg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/91A2F02E-CCC3-44A9-8DAA-6C1D039FE7B1.jpeg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/Climate%20Change%20-%20Phelps%20Turner.jpg" | relative_url }})   
+![The hand-off celebration]({{ "/uploads/2018-01-24%2014.36.05.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2014.48.06.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2014.53.24.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2014.59.59.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2015.02.20.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2015.09.17.jpg" | relative_url }})  
+![The hand-off celebration]({{ "/uploads/2018-01-24%2015.03.50.jpg" | relative_url }})  
+![The hand-off celebration]({{ "" | relative_url }})  
+![The hand-off celebration]({{ "" | relative_url }})  
+![The hand-off celebration]({{ "" | relative_url }})  
+![The hand-off celebration]({{ "" | relative_url }})  
