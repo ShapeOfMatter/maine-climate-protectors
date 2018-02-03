@@ -3,7 +3,8 @@ title: Support MCP
 date: 2017-12-13 15:14:00 -05:00
 ---
 
-The principal need at this time is for people to speak at an as-yet unscheduled public hearing hosted by the DEP.  
+#### The principal need at this time is for people to speak at an as-yet unscheduled public hearing hosted by the DEP.
+
 Ask Jeff Crawford at the DEP to inform you or your group when the hearing is scheduled. You can email him at `jeff.s.crawford@maine.gov`; you can use the below sample text, or print out [this postcard]({{ "/uploads/postcard%20to%20dep%2020180202a.pdf" | relative_url }}) if you prefer to use paper mail. A more personalized message is always appropriate too!  
     Jeff Crawford of the Maine D.E.P. Bureau of Air Quality;
     Climate change driven by our emissions of CO2 and other greenhouse gases is already having negative effects in Maine. Without strong, immediate action our natural resources will be devastated, our health will suffer, and our economy will follow close behind. The time has come to wean ourselves of fossil fuels, and your agency is empowered to play a key role. 
