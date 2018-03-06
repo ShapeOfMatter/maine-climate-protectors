@@ -81,6 +81,9 @@ collections:
     - file: "/uploads/plastics.png"
       name: A speaker at the celebration
       date: 2018-01-24 05:00:00.000000000 Z
+    - file: "/uploads/Seeking%20people%20to%20testify%20at%20public%20hearing.pdf"
+      name: Testify at a public Hearing!
+      date: 2018-03-03 05:00:00.000000000 Z
   posts:
     title: Posts
     output: true
