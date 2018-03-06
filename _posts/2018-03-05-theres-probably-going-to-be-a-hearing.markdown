@@ -12,4 +12,6 @@ We have been told by our contact at DEP that a notice of public hearing will be 
  + Faith/moral perspective
  + Impact on youth
 
+[Click here]({{"/uploads/Seeking%20people%20to%20testify%20at%20public%20hearing.pdf"} | relative_url}) for a printable introduction to our effort for candidate speakers.
+
 Reach out to us at {{ site.contact_email }} or [read more about how to get involved]({{ "/support/" | relative_url }}).
