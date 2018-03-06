@@ -1,6 +1,6 @@
 ---
 title: There's probably going to be a hearing!
-date: 2018-03-05 21:47:00 -05:00
+date: 2018-03-04 21:47:00 -05:00
 ---
 
 We have been told by our contact at DEP that a notice of public hearing will be published in late March. The public hearing will be approximately three weeks later. We are seeking individuals to speak at the hearing and/or to submit written testimony on a broad range of climate change issues, including:
