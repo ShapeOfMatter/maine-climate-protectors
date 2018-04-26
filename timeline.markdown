@@ -18,8 +18,8 @@ events:
   text: 'The hearing is formally announced. '
 - date: 2018-05-15 00:00:00 -04:00
   text: "There will be a public hearing on the proposed rules to to reduce greenhouse
-    gas emissions, to be held May 15th at 1pm at \n    The DEP Response Training Room,\n
-    \   4 Blossom Lane (AMHI Complex)\n    Augusta."
+    gas emissions, to be held May 15th at 1pm at  \n    The DEP Response Training
+    Room,  \n    4 Blossom Lane (AMHI Complex)  \n    Augusta."
 - date: 2018-06-29 00:00:00 -04:00
   text: The public comment period will end.
 ---
