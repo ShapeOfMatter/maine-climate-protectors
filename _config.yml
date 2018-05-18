@@ -88,6 +88,13 @@ collections:
       name: Hunter, Lance, Ruthie and Thomas meet at their school to carpool to the
         hearing.
       date: 2018-05-15 04:00:00.000000000 Z
+    - file: "/uploads/Hunter_speakingdep518.jpg"
+      name: Hunter addresses the panel.
+      date: 2018-05-15 04:00:00.000000000 Z
+    - file: "/uploads/Maineyouth_DEP.jpg"
+      name: Anna, Devyn, Asfia, Thomas, Lance, Hunter, and Ruth gather outside the
+        DEP Response Training Room.
+      date: 2018-05-15 04:00:00.000000000 Z
   posts:
     title: Posts
     output: true
