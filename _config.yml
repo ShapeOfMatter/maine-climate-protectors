@@ -84,6 +84,10 @@ collections:
     - file: "/uploads/Invitation%20to%20Speakers.pdf"
       name: Testify at a DEP Hearing!
       date: 2018-04-29 04:00:00.000000000 Z
+    - file: "/uploads/Hunter_Lance_Ruthie_Thomas_KHSbeforedep.jpg"
+      name: Hunter, Lance, Ruthie and Thomas meet at their school to carpool to the
+        hearing.
+      date: 2018-05-15 04:00:00.000000000 Z
   posts:
     title: Posts
     output: true
