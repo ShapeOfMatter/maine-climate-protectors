@@ -95,6 +95,9 @@ collections:
       name: Anna, Devyn, Asfia, Thomas, Lance, Hunter, and Ruth gather outside the
         DEP Response Training Room.
       date: 2018-05-15 04:00:00.000000000 Z
+    - file: "/uploads/RyanOleary_MYEAfounder_dep2018.jpg"
+      name: MYEA founder Ryand O'Leary addresses the panel.
+      date: 
   posts:
     title: Posts
     output: true

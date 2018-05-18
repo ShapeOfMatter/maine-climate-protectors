@@ -12,4 +12,10 @@ On May 15th, over 34 people gathered in the Maine DEP Response Training Room in 
 [WERU interviews with Chuck and Bethany](https://weru.org/show-archives/radioactive-may-17-2018/ "WERU")  
 (This link isn't permanent, sorry.)
 
-![Photo from the ](/path/to/img.jpg "Optional title")  
+![Anna, Devyn, Asfia, Thomas, Lance, Hunter, and Ruth gather outside the DEP Response Training Room.]({{"/uploads/Maineyouth_DEP.jpg" | relative_url}})  
+![MYEA founder Ryand O'Leary addresses the panel.]({{"/uploads/RyanOleary_MYEAfounder_dep2018.jpg" | relative_url}})  
+![Hunter, Lance, Ruthie and Thomas meet at their school to carpool to the hearing.]({{"/uploads/Hunter_Lance_Ruthie_Thomas_KHSbeforedep.jpg}})  
+
+Some articles from before the hearing:  
+[Letter to the editor of The Portland Press Herald](https://www.pressherald.com/2018/05/09/letter-to-the-editor-tell-dep-you-want-action-on-limiting-greenhouse-gas-emissions/ "Portland Press Herald")  
+[Associated Press article in the New York Times](https://www.nytimes.com/aponline/2018/05/14/us/ap-us-greenhouse-gas.html "New York Times")  
