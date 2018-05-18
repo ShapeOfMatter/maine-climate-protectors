@@ -7,7 +7,7 @@ We expect that people opposed to greenhouse gas regulations will submit their op
 
 Comments may be submitted in a number of formats:  
 * Email comments should be submitted using [the website link](http://www.maine.gov/dep/rules/index.html#794983 "Maine D.E.P."). (although you may also submit them directly to Jeff at jeff.s.crawford@maine.gov)  
-* Hard copy comments may be submitted via mail to:  
+* Hard copy comments may be submitted via mail to:
     GHG Petition Rulemaking Comments  
     Attn:  Jeff Crawford  
     Maine Department of Environmental Protection  
