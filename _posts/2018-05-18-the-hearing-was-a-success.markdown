@@ -14,7 +14,7 @@ On May 15th, over 34 people gathered in the Maine DEP Response Training Room in 
 
 ![Anna, Devyn, Asfia, Thomas, Lance, Hunter, and Ruth gather outside the DEP Response Training Room.]({{"/uploads/Maineyouth_DEP.jpg" | relative_url}})  
 ![MYEA founder Ryand O'Leary addresses the panel.]({{"/uploads/RyanOleary_MYEAfounder_dep2018.jpg" | relative_url}})  
-![Hunter, Lance, Ruthie and Thomas meet at their school to carpool to the hearing.]({{"/uploads/Hunter_Lance_Ruthie_Thomas_KHSbeforedep.jpg}})  
+![Hunter, Lance, Ruthie and Thomas meet at their school to carpool to the hearing.]({{"/uploads/Hunter_Lance_Ruthie_Thomas_KHSbeforedep.jpg"}})  
 
 Some articles from before the hearing:  
 [Letter to the editor of The Portland Press Herald](https://www.pressherald.com/2018/05/09/letter-to-the-editor-tell-dep-you-want-action-on-limiting-greenhouse-gas-emissions/ "Portland Press Herald")  
