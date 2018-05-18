@@ -3,7 +3,7 @@ title: Support MCP
 date: 2017-12-13 15:14:00 -05:00
 ---
 
-#### [The principal need at this time is for people to write to the DEP explaining why these rules are necessary.]({{"maine-climate-protectors.org/posts/now-is-the-time-for-written-comments/" | relative_url}} "Write to the DEP.") 
+#### [The principal need at this time is for people to write to the DEP explaining why these rules are necessary.]({{"/posts/now-is-the-time-for-written-comments/" | relative_url}} "Write to the DEP.") 
 
 If you would like to get involved in ongoing efforts, contact Beth Valentine at {{ site.contact_email }}.
 
