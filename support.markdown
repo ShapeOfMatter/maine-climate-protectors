@@ -3,9 +3,9 @@ title: Support MCP
 date: 2017-12-13 15:14:00 -05:00
 ---
 
-#### The principal need at this time is for people to speak at the [May 15th public hearing]({{ "/posts/dep-hearing-may-15th/" | relative_url }}) hosted by the DEP.
+#### The principal need at this time is for people to write to the DEP explaining why these rules are necessary. speak at the [May 15th public hearing]({{ "/posts/dep-hearing-may-15th/" | relative_url }}) hosted by the DEP.
 
-If you would like to coordinate with us to get to a hearing, contact Beth Valentine at {{ site.contact_email }}.
+If you would like to get involved in ongoing efforts, contact Beth Valentine at {{ site.contact_email }}.
 
 If you are too young to vote, or you know young people who would like to get involved, consider downloading our [Youth Petition Toolkit]({{ "/uploads/Youth%20Toolkit%20v1%20(2).docx" | relative_url }}). Be **certain** to email us at {{ site.contact_email }} to let us know that you're gathering signatures. 
 
