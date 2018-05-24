@@ -10,7 +10,7 @@ Make sure that all comments have a clear subject line:
 For reference, here's [the DEP's writeup](http://www.maine.gov/dep/rules/index.html#794983 "Maine D.E.P.").
 
 Comments may be submitted in a number of formats:  
-* Emails should be sent to `rulecomments.dep@maine.gov`.  
+* Emails should be sent to **rulecomments.dep@maine.gov**.  
 * Hard copy comments may be submitted via mail to:  
 > GHG Petition Rulemaking Comments  
 > Attn:  Jeff Crawford  
@@ -20,5 +20,5 @@ Comments may be submitted in a number of formats:
 * Comments could also be delivered in person to DEP offices in Augusta [at 28 Tyson Drive](http://www.maine.gov/dep/contact/cmro.html "Map to the DEP office") or the Southern Maine Regional Office on [Canco Road, Portland](http://www.maine.gov/dep/contact/smro.html "Map to the DEP office in Portland"). Make sure to get hand-delivered testimony time-stamped if you deliver it on the 29th.
 
 Please do send us a copy of your comments!  
-`{{ site.contact_email }}`  
-You can also CC Jeff Crawford (`jeff.s.crawford@maine.gov`), The DEP staff handling this process.
+**{{ site.contact_email }}**  
+You can also CC Jeff Crawford (**jeff.s.crawford@maine.gov**), The DEP staff handling this process.
