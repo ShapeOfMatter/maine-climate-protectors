@@ -21,7 +21,9 @@ events:
     gas emissions. Over thirty scientists, farmers, and students of across generations
     spoke to the DEP about how these rules would protect their future.
 - date: 2018-06-29 00:00:00 -04:00
-  text: The public comment period will end.
+  text: "~~The public comment period will end.~~"
+- date: 2018-07-30 00:00:00 -04:00
+  text: The public comment period will end at 5pm.
 ---
 
 {% comment %}
