@@ -1,5 +1,5 @@
 ---
-title: Now is the time for written comments
+title: Now [JULY] is the time for written comments
 date: 2018-05-18 07:50:00 -04:00
 ---
 
@@ -7,7 +7,7 @@ We expect that people opposed to greenhouse gas regulations will submit their op
 
 Make sure that all comments have a clear subject line:  
 **_"Comment on Citizen Petition for Rulemaking to Reduce Greenhouse Gas Emissions"_**  
-Comments will not be accepted after 5pm, June 29th. For reference, here's [the DEP's writeup](http://www.maine.gov/dep/rules/index.html#794983 "Maine D.E.P.").
+Comments will not be accepted after ~~5pm, June 29th~~ 5pm, July 30. For reference, here's [the DEP's writeup](http://www.maine.gov/dep/rules/index.html#794983 "Maine D.E.P.").
 
 Comments may be submitted in a number of formats:  
 * Emails should be sent to **rulecomments.dep@maine.gov**.  
