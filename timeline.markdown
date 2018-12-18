@@ -23,7 +23,15 @@ events:
 - date: 2018-06-29 00:00:00 -04:00
   text: "~~The public comment period will end.~~"
 - date: 2018-07-30 00:00:00 -04:00
-  text: The public comment period will end at 5pm.
+  text: The public comment period ended.
+- date: 2018-11-27 00:00:00 -05:00
+  text: The DEP had until this time to properly respond to the petition; they failed
+    to do so.
+- date: 2019-05-27 00:00:00 -04:00
+  text: We have until this date to file a lawsuit, if that turns out to be the best
+    way forward.
+- date: 2019-01-02 00:00:00 -05:00
+  text: Janet Mills will be inaugurated.
 ---
 
 {% comment %}
