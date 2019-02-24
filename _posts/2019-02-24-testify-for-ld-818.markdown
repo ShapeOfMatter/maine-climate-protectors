@@ -11,7 +11,7 @@ This template is designed specifically to help with writing testimony about [LD 
 
 Caleb Roebuck is the Clerk for the Committee On Environment and Natural Resources ([full contact info here](http://legislature.maine.gov/committee/#Committees/ENR)) which will be holding the hearing on March 13th. Email him at ENR@legislature.maine.gov. Be sure to copy your own legislators.
 
-##Testimony Wizard:
+## Testimony Wizard:
 
 <p>
 <label for="ld-818">LD 818 "An Act To Reduce Greenhouse Gas Emissions"</label>
@@ -66,9 +66,9 @@ Buckshireport ME, 04999
 
 <p><button id="compose_button" name="compose" type="button">Compose</button></p>
 
-##Output:
+## Output:
 
-<pre id="wizard_output"></pre>
+<pre id="wizard_output" style="width: 100%;overflow: scroll;"></pre>
 
 
 <script type="text/javascript" src="{{ "/assets/2019-02-24-testify-for-ld-818.js" | relative_url }}"></script>
