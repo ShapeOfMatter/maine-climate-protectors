@@ -13,7 +13,7 @@ document.onreadystatechange = function () {
 
    var d = new Date();
    var monthNames = ["January","February","March","April","May","June","July","August","September","October","November","December"];
-   var today = `${monthNames[d.getMonth()]} ${d.getDate()}, ${d.getFullYear()}`;
+   var today = "" + monthNames[d.getMonth()] + " " + d.getDate() + ", " + d.getFullYear();
 
    var first_sentance = document.getElementById("first-sentance").value;
    var second_paragraph = document.getElementById("second-paragraph").value;
@@ -23,24 +23,24 @@ document.onreadystatechange = function () {
 
    var p = document.getElementById('wizard_output');
    while( p.firstChild ) { p.removeChild( p.firstChild ); }
-   p.appendChild( document.createTextNode(`
-Senators and Representatives in the Joint Standing Committee On Environment and Natural Resources;
-C/O Clerk Caleb Roebuck;
-
-This is my public testimony regarding ${ld}, which I am submitting in writing today, ${today}.
-
-${first_sentance}
-
-The effects of climate change are already being seen in Maine. ${second_paragraph}
-
-These and other effects of our fossil-fuel-based economy will wreak havok throughout Maine in coming decades. ${third_paragraph}
-
-While some consequences of climate change, such as sea-level rise, may take a long time to play out, our actions now will mitigate them. In particular, every extra bit we can do to reduce greenhouse gas emissions in the next twelve years will substantially improve the quality of life for everyone in Maine.
-
-${closing}
-
-${signature}
-   `) );
+   p.appendChild( document.createTextNode('\
+Senators and Representatives in the Joint Standing Committee On Environment and Natural Resources;\
+C/O Clerk Caleb Roebuck;\
+\
+This is my public testimony regarding ${ld}, which I am submitting in writing today, ${today}.\
+\
+' + first_sentance + '\
+\
+The effects of climate change are already being seen in Maine. ' + second_paragraph + '\
+\
+These and other effects of our fossil-fuel-based economy will wreak havok throughout Maine in coming decades. ' + third_paragraph + '\
+\
+While some consequences of climate change, such as sea-level rise, may take a long time to play out, our actions now will mitigate them. In particular, every extra bit we can do to reduce greenhouse gas emissions in the next twelve years will substantially improve the quality of life for everyone in Maine.\
+\
+' + closing + '\
+\
+' + signature + '\
+   ') );
 
   };
  }
