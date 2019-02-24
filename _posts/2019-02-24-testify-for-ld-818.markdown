@@ -1,6 +1,6 @@
 ---
 title: Testify for LD 818 on March 13th
-date: 2019-02-24 09:28:00 -04:00
+date: 2019-02-24 08:28:00 -05:00
 ---
 
 This is a very simple tool to help you draft compelling testimony to the legislature. Fill out the prompts below, hit the **Compose** button, and then copy-paste the text at the bottom into your email or word-processor to finish editing it.
