@@ -66,7 +66,7 @@ Buckshireport ME, 04999
 
 <p><button id="compose_button" name="compose" type="button">Compose</button></p>
 
-##Output:
+## Output:
 
 <pre id="wizard_output"></pre>
 
