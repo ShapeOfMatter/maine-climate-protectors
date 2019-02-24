@@ -68,7 +68,7 @@ Buckshireport ME, 04999
 
 ## Output:
 
-<pre id="wizard_output"></pre>
+<pre id="wizard_output" style="width: 100%;overflow: scroll;"></pre>
 
 
 <script type="text/javascript" src="{{ "/assets/2019-02-24-testify-for-ld-818.js" | relative_url }}"></script>
