@@ -23,23 +23,23 @@ document.onreadystatechange = function () {
 
    var p = document.getElementById('wizard_output');
    while( p.firstChild ) { p.removeChild( p.firstChild ); }
-   p.appendChild( document.createTextNode('\
-Senators and Representatives in the Joint Standing Committee On Environment and Natural Resources;\
-C/O Clerk Caleb Roebuck;\
-\
-This is my public testimony regarding ${ld}, which I am submitting in writing today, ${today}.\
-\
-' + first_sentance + '\
-\
-The effects of climate change are already being seen in Maine. ' + second_paragraph + '\
-\
-These and other effects of our fossil-fuel-based economy will wreak havok throughout Maine in coming decades. ' + third_paragraph + '\
-\
-While some consequences of climate change, such as sea-level rise, may take a long time to play out, our actions now will mitigate them. In particular, every extra bit we can do to reduce greenhouse gas emissions in the next twelve years will substantially improve the quality of life for everyone in Maine.\
-\
-' + closing + '\
-\
-' + signature + '\
+   p.appendChild( document.createTextNode('\n\
+Senators and Representatives in the Joint Standing Committee On Environment and Natural Resources;\n\
+C/O Clerk Caleb Roebuck;\n\
+\n\
+This is my public testimony regarding ${ld}, which I am submitting in writing today, ${today}.\n\
+\n\
+' + first_sentance + '\n\
+\n\
+The effects of climate change are already being seen in Maine. ' + second_paragraph + '\n\
+\n\
+These and other effects of our fossil-fuel-based economy will wreak havok throughout Maine in coming decades. ' + third_paragraph + '\n\
+\n\
+While some consequences of climate change, such as sea-level rise, may take a long time to play out, our actions now will mitigate them. In particular, every extra bit we can do to reduce greenhouse gas emissions in the next twelve years will substantially improve the quality of life for everyone in Maine.\n\
+\n\
+' + closing + '\n\
+\n\
+' + signature + '\n\
    ') );
 
   };
