@@ -27,7 +27,7 @@ document.onreadystatechange = function () {
 Senators and Representatives in the Joint Standing Committee On Environment and Natural Resources;\n\
 C/O Clerk Caleb Roebuck;\n\
 \n\
-This is my public testimony regarding ${ld}, which I am submitting in writing today, ${today}.\n\
+This is my public testimony regarding ' + ld + ', which I am submitting in writing today, ' + today + '.\n\
 \n\
 ' + first_sentance + '\n\
 \n\
