@@ -98,6 +98,9 @@ collections:
     - file: "/uploads/RyanOleary_MYEAfounder_dep2018.jpg"
       name: MYEA founder Ryand O'Leary addresses the panel.
       date: 2018-05-15 04:00:00.000000000 Z
+    - file: "/uploads/Comparison%20of%20Maine%20GHG%20Reduction%20Targets%20Bills.ipynb"
+      name: Comparison of Maine GHG Reduction Targets Bills
+      date: 2019-05-01 04:00:00.000000000 Z
   posts:
     title: Posts
     output: true
